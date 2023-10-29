@@ -6,7 +6,7 @@ If you like the template, give it a star!
 
 ## Getting started
 
-If you want to use this template, I advise you to use [this tutorial](https://mpek29.github.io/my_personal_website/tutorials/use_template_sharelatex/)
+If you want to use this template, I advise you to use [this tutorial](https://mpek29.github.io/en/tutorials/use_template_sharelatex/)
 
 After that, you just need to write your LaTex code in the body.tex file.
 
