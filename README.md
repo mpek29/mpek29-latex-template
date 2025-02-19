@@ -3,6 +3,8 @@
 A beautiful, simple and clean LaTex template for ENIB students who want to write a project report.
 If you like the template, give it a star!
 
+## Overview
+![Main Preview](assets/img/main.png)
 
 ## Getting started
 
