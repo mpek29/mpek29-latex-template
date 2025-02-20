@@ -1,17 +1,19 @@
 # mpek29-latex-template
 
-A beautiful, simple and clean LaTex template for ENIB students who want to write a project report.
-If you like the template, give it a star!
-
-## Overview
+## 🚀 Overview
 ![Main Preview](assets/img/main.png)
 
-## Getting started
+A beautiful, simple, and clean LaTeX template designed for ENIB students who want to write project reports. If you like the template, feel free to give it a star!
 
-If you want to use this template, I advise you to use [this tutorial](https://mpek29.github.io/learning/technical/use_template_sharelatex/)
+## 🎯 Purpose
+- ✍️ **Streamlined Reporting**: Facilitate the creation of professional-looking project reports.
+- 🎓 **Student Resource**: Tailored specifically for ENIB students' needs.
+- 🛠️ **Open Source Development**: Encourage collaboration and customization from users.
 
-After that, you just need to write your LaTex code in the body.tex file.
+## 📝 Getting Started
+To use this template, I recommend following [this tutorial](https://mpek29.github.io/learning/technical/use_template_sharelatex/). 
 
-## License
+After that, simply write your LaTeX code in the `body.tex` file.
 
-The theme is available as open source under the terms of the [GNU General Public License v3.0](https://github.com/mpek29/mpek29-latex-template/blob/master/LICENSE).
+## 🌟 License
+The theme is available as open source under the terms of the [GNU General Public License v3.0](https://github.com/mpek29/mpek29-latex-template/blob/master/LICENSE). Feel free to use, modify, and contribute! 🚀
